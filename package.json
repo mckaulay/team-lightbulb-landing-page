@@ -16,6 +16,9 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page/issues",
         "email": "feedback@startbootstrap.com"
     },
+    "scripts": {
+        "dev": "gulp dev"
+    },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
